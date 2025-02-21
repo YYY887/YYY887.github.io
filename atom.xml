@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-02-21T03:46:53.342Z</updated>
+  <updated>2025-02-19T11:12:34.241Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,439 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2025/02/21/hello-world/"/>
-    <id>http://example.com/2025/02/21/hello-world/</id>
-    <published>2025-02-21T03:46:53.342Z</published>
-    <updated>2025-02-21T03:46:53.342Z</updated>
+    <title></title>
+    <link href="http://example.com/2025/02/21/%E4%BD%99%E6%98%8E%E6%B4%8B_%E7%AE%80%E5%8E%86/"/>
+    <id>http://example.com/2025/02/21/%E4%BD%99%E6%98%8E%E6%B4%8B_%E7%AE%80%E5%8E%86/</id>
+    <published>2025-02-21T05:32:58.481Z</published>
+    <updated>2025-02-19T11:12:34.241Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>::: start</p><h1 id="姓名-余明洋"><a href="#姓名-余明洋" class="headerlink" title="姓名:余明洋"></a><strong>姓名:余明洋</strong></h1><h3 id="希望职位-前端工程师"><a href="#希望职位-前端工程师" class="headerlink" title="希望职位- 前端工程师"></a>希望职位- 前端工程师</h3><p>男 &#x2F; 2005.12.13 &#x2F; <a href="https://coderlei.netlify.app/">个人博客</a></p><p>:::<br>icon:github <a href="https://github.com/acmenlei">https://github.com/yyy887</a></p><p>:::<br><img src="https://636f-codecv-8gf1cv0db1056941-1300408620.tcb.qcloud.la/images/avatar.jpg" alt="个人头像"></p><p>::: end</p><h2 id="教育背景"><a href="#教育背景" class="headerlink" title="教育背景"></a>教育背景</h2><p>::: start<br>河南农业大学 一本</p><p>:::<br>软件工程 - 本科</p><p>:::<br>2024年09月 - 2025年02月</p><p>::: end</p><h2 id="专业技能"><a href="#专业技能" class="headerlink" title="专业技能"></a>专业技能</h2><ul><li><p>刚开始学习vue，但对于vue的创建部署以及简单的语法有初步了解</p></li><li><p>熟悉 JavaScript 语法</p></li><li><p>熟悉 HTML、CSS，如 FlexBox、CSS 动画(简单)等</p></li><li><p>了解前端工程化，能使用 Vite、Webpack 对项目进行基本的配置</p></li><li><p>了解计算机网络相关知识，如 TCP&#x2F;IP、UDP、HTTP、HTTPS、DNS 协议等</p></li><li><p>熟悉后端开发的部分环节</p></li><li><p>有一定的java基础以及python基础</p></li></ul><h2 id="项目经历"><a href="#项目经历" class="headerlink" title="项目经历"></a>项目经历</h2><p>::: start<br><strong>hexo个人博客搭建</strong></p><p>:::<br>2025年1月–2025年2月</p><p>::: end</p><ul><li><p>负责前端技术架构设计，探索Web前端与游戏前端技术结合领域，推进新技术在业务中落地</p></li><li><p>主导并参与美团游戏项目的设计过程和方案调研，对技术方案、风险进行评审和分析</p></li><li><p>深入理解业务，注重产品和用户体验，支持和推动业务的快速迭代发展</p></li><li><p>具备良好学习能力、沟通能力、需求落地能力、数学及抽象思维能力、承压能力</p></li></ul><h2 id="其他优势"><a href="#其他优势" class="headerlink" title="其他优势"></a>其他优势</h2><ul><li><p>学习过多种语言包括但不限于：html，css, javascript , java, python, c , c++</p></li><li><p>熟悉网站开发的流程以及mysql的部分语法</p></li><li><p>在大学班级内承担班长有管理协调经验</p></li><li><p>对于多种框架如vue spring 若依 等都有很多兴趣</p></li><li><p>喜欢研究开发比较沉迷于功能优化以及美化</p></li><li><p>有很高的艺术追求</p></li><li><p>熟练掌握电脑开关机等等</p></li><li><p>会使用wps的各种功能</p></li><li><p>喜欢帮助朋友同学，富有爱心</p></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;::: start&lt;/p&gt;
+&lt;h1 id=&quot;姓名-余明洋&quot;&gt;&lt;a href=&quot;#姓名-余明洋&quot; class=&quot;headerlink&quot; title=&quot;姓名:余明洋&quot;&gt;&lt;/a&gt;&lt;strong&gt;姓名:余明洋&lt;/strong&gt;&lt;/h1&gt;&lt;h3 id=&quot;希望职位-前端工程师&quot;&gt;&lt;a </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>数据库</title>
+    <link href="http://example.com/2025/02/19/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <id>http://example.com/2025/02/19/%E6%95%B0%E6%8D%AE%E5%BA%93/</id>
+    <published>2025-02-19T05:08:35.000Z</published>
+    <updated>2025-02-19T11:12:45.104Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="java连接数据库"><a href="#java连接数据库" class="headerlink" title="java连接数据库"></a>java连接数据库</h1><h2 id="成功了哈哈哈哈哈"><a href="#成功了哈哈哈哈哈" class="headerlink" title="成功了哈哈哈哈哈"></a>成功了哈哈哈哈哈</h2><p><img src="C:/Users/ymy10/AppData/Roaming/Typora/typora-user-images/image-20250219130908627.png" alt="image-20250219130908627"></p><p><img src="C:/Users/ymy10/AppData/Roaming/Typora/typora-user-images/image-20250219130857727.png" alt="image-20250219130857727"></p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> com.mysql.jdbc.Driver;</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> java.sql.*;</span><br><span class="line"></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Main</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> <span class="keyword">throws</span> ClassNotFoundException, SQLException &#123;</span><br><span class="line"><span class="comment">//        注册驱动</span></span><br><span class="line">        Class.forName(<span class="string">&quot;com.mysql.cj.jdbc.Driver&quot;</span>);</span><br><span class="line"><span class="comment">//         创建连接</span></span><br><span class="line">        <span class="type">Connection</span> <span class="variable">connection</span> <span class="operator">=</span> DriverManager.getConnection(<span class="string">&quot;jdbc:mysql://localhost:3306/java_test?serverTimezone=UTC&quot;</span>, <span class="string">&quot;root&quot;</span>, <span class="string">&quot;ymy100861&quot;</span>);</span><br><span class="line"><span class="comment">//        创建对象</span></span><br><span class="line">        <span class="type">Statement</span> <span class="variable">statement</span> <span class="operator">=</span> connection.createStatement();</span><br><span class="line"><span class="comment">//        输入语句</span></span><br><span class="line">        <span class="type">ResultSet</span> <span class="variable">resultSet</span> <span class="operator">=</span> statement.executeQuery(<span class="string">&quot;select * from user_tb&quot;</span>);</span><br><span class="line">        <span class="keyword">while</span> (resultSet.next()) &#123;</span><br><span class="line">            <span class="type">int</span> <span class="variable">id</span> <span class="operator">=</span> resultSet.getInt(<span class="string">&quot;id&quot;</span>);</span><br><span class="line">            <span class="type">String</span> <span class="variable">name</span> <span class="operator">=</span> resultSet.getString(<span class="string">&quot;name&quot;</span>);</span><br><span class="line">            <span class="type">String</span> <span class="variable">age</span> <span class="operator">=</span> resultSet.getString(<span class="string">&quot;age&quot;</span>);</span><br><span class="line">            System.out.println(<span class="string">&quot;id:&quot;</span>+id+<span class="string">&quot;,name:&quot;</span>+name+<span class="string">&quot;,age:&quot;</span>+age);</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="记得要导入jar包"><a href="#记得要导入jar包" class="headerlink" title="记得要导入jar包"></a>记得要导入jar包</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;java连接数据库&quot;&gt;&lt;a href=&quot;#java连接数据库&quot; class=&quot;headerlink&quot; title=&quot;java连接数据库&quot;&gt;&lt;/a&gt;java连接数据库&lt;/h1&gt;&lt;h2 id=&quot;成功了哈哈哈哈哈&quot;&gt;&lt;a href=&quot;#成功了哈哈哈哈哈&quot; class=&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一个爬取小说的</title>
+    <link href="http://example.com/2025/02/17/%E4%B8%80%E4%B8%AA%E7%88%AC%E5%8F%96%E5%B0%8F%E8%AF%B4%E7%9A%84/"/>
+    <id>http://example.com/2025/02/17/%E4%B8%80%E4%B8%AA%E7%88%AC%E5%8F%96%E5%B0%8F%E8%AF%B4%E7%9A%84/</id>
+    <published>2025-02-17T07:43:47.000Z</published>
+    <updated>2025-02-17T13:10:34.019Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试实例"><a href="#测试实例" class="headerlink" title="测试实例"></a>测试实例</h1><h2 id="蛊真人小说"><a href="#蛊真人小说" class="headerlink" title="蛊真人小说"></a><a href="http://love.qmys.fun/%E8%9B%8A%E7%9C%9F%E4%BA%BA.zip">蛊真人小说</a></h2><h3 id="可以导入番茄小说"><a href="#可以导入番茄小说" class="headerlink" title="可以导入番茄小说"></a>可以导入番茄小说</h3><h2 id="下面是exe文件"><a href="#下面是exe文件" class="headerlink" title="下面是exe文件"></a>下面是exe文件</h2><h2 id="爬取小说"><a href="#爬取小说" class="headerlink" title="爬取小说"></a><a href="http://love.qmys.fun/%E9%AB%98%E8%B4%A8%E9%87%8F%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD.zip">爬取小说</a></h2><p>点击下载</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试实例&quot;&gt;&lt;a href=&quot;#测试实例&quot; class=&quot;headerlink&quot; title=&quot;测试实例&quot;&gt;&lt;/a&gt;测试实例&lt;/h1&gt;&lt;h2 id=&quot;蛊真人小说&quot;&gt;&lt;a href=&quot;#蛊真人小说&quot; class=&quot;headerlink&quot; title=&quot;蛊真人小说&quot;&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="下载" scheme="http://example.com/tags/%E4%B8%8B%E8%BD%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图片暂时出了点问题</title>
+    <link href="http://example.com/2025/02/16/%E5%9B%BE%E7%89%87%E6%9A%82%E6%97%B6%E5%87%BA%E4%BA%86%E7%82%B9%E9%97%AE%E9%A2%98/"/>
+    <id>http://example.com/2025/02/16/%E5%9B%BE%E7%89%87%E6%9A%82%E6%97%B6%E5%87%BA%E4%BA%86%E7%82%B9%E9%97%AE%E9%A2%98/</id>
+    <published>2025-02-16T13:16:40.000Z</published>
+    <updated>2025-02-16T13:17:47.469Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="因为之前的图片在我家里的图床现在电脑关机了"><a href="#因为之前的图片在我家里的图床现在电脑关机了" class="headerlink" title="因为之前的图片在我家里的图床现在电脑关机了"></a>因为之前的图片在我家里的图床现在电脑关机了</h1><h2 id="现在换了"><a href="#现在换了" class="headerlink" title="现在换了"></a>现在换了</h2><p>测试</p><p><img src="http://love.qmys.fun/image-20250216211738350.png" alt="image-20250216211738350"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;因为之前的图片在我家里的图床现在电脑关机了&quot;&gt;&lt;a href=&quot;#因为之前的图片在我家里的图床现在电脑关机了&quot; class=&quot;headerlink&quot; title=&quot;因为之前的图片在我家里的图床现在电脑关机了&quot;&gt;&lt;/a&gt;因为之前的图片在我家里的图床现在电脑关机了&lt;/</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>七牛云图床</title>
+    <link href="http://example.com/2025/02/16/%E4%B8%83%E7%89%9B%E4%BA%91%E5%9B%BE%E5%BA%8A/"/>
+    <id>http://example.com/2025/02/16/%E4%B8%83%E7%89%9B%E4%BA%91%E5%9B%BE%E5%BA%8A/</id>
+    <published>2025-02-16T12:56:40.000Z</published>
+    <updated>2025-02-16T12:56:40.127Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>夸克网盘不限速</title>
+    <link href="http://example.com/2025/02/14/%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98%E4%B8%8D%E9%99%90%E9%80%9F/"/>
+    <id>http://example.com/2025/02/14/%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98%E4%B8%8D%E9%99%90%E9%80%9F/</id>
+    <published>2025-02-14T01:27:04.000Z</published>
+    <updated>2025-02-16T13:16:26.863Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="首先打开夸克网盘"><a href="#首先打开夸克网盘" class="headerlink" title="首先打开夸克网盘"></a>首先打开夸克网盘</h1><h2 id="点击快传"><a href="#点击快传" class="headerlink" title="点击快传"></a>点击快传</h2><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/ba9540ffef08a422.png" alt="ba9540ffef08a422.png"></p><h1 id="发送给自己"><a href="#发送给自己" class="headerlink" title="发送给自己"></a>发送给自己</h1><h2 id="选择网盘文件-下载到本地就不限速啦"><a href="#选择网盘文件-下载到本地就不限速啦" class="headerlink" title="选择网盘文件  下载到本地就不限速啦"></a>选择网盘文件  下载到本地就不限速啦</h2><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/95736471b5b37344.png" alt="image-20250214092843072"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;首先打开夸克网盘&quot;&gt;&lt;a href=&quot;#首先打开夸克网盘&quot; class=&quot;headerlink&quot; title=&quot;首先打开夸克网盘&quot;&gt;&lt;/a&gt;首先打开夸克网盘&lt;/h1&gt;&lt;h2 id=&quot;点击快传&quot;&gt;&lt;a href=&quot;#点击快传&quot; class=&quot;headerlink&quot; </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Cmakelist配置</title>
+    <link href="http://example.com/2025/02/13/Cmakelist%E9%85%8D%E7%BD%AE/"/>
+    <id>http://example.com/2025/02/13/Cmakelist%E9%85%8D%E7%BD%AE/</id>
+    <published>2025-02-13T03:23:00.000Z</published>
+    <updated>2025-02-17T07:44:11.319Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="配置在这里粘贴进去就行了"><a href="#配置在这里粘贴进去就行了" class="headerlink" title="配置在这里粘贴进去就行了"></a>配置在这里粘贴进去就行了</h1><h2 id="要创建一个src文件夹会自动遍历提交到cmakelist-txt"><a href="#要创建一个src文件夹会自动遍历提交到cmakelist-txt" class="headerlink" title="要创建一个src文件夹会自动遍历提交到cmakelist.txt"></a>要创建一个src文件夹会自动遍历提交到cmakelist.txt</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br></pre></td><td class="code"><pre><span class="line">cmake_minimum_required(VERSION <span class="number">3.26</span>)</span><br><span class="line">project(CWorks C CXX)</span><br><span class="line"></span><br><span class="line"># --------------------------&lt; 使用须知 &gt;------------------------------------</span><br><span class="line"># 请注意： 此文件已经和最初的CMakeLists.txt文件不同，使用前须阅读以下说明</span><br><span class="line"># 请注意： 此文件已经和最初的CMakeLists.txt文件不同，使用前须阅读以下说明</span><br><span class="line"># 请注意： 此文件已经和最初的CMakeLists.txt文件不同，使用前须阅读以下说明</span><br><span class="line"># &gt;-----------------------------------------------------------------------</span><br><span class="line"># 本文件是一个自动化的CMakeList，有以下功能：</span><br><span class="line"># - 自动遍历 src 目录下的所有 .c 和 .cpp 文件，并将其编译为可执行文件。</span><br><span class="line"># - 将可执行文件(即编译结果)输出到项目根目录下的 .runtime/ 目录中。</span><br><span class="line"># - 将库文件输出到项目根目录下的 .library/ 目录中。</span><br><span class="line"># - 将中间文件输出到项目根目录下的 .archive/ 目录中。</span><br><span class="line"># &gt;-----------------------------------------------------------------------</span><br><span class="line"># 使用此CMakeList时，若要新建C/C++语言文件，请按照以下步骤：</span><br><span class="line"># <span class="number">1.</span> 右键src目录(如果没有src目录，请先创建)——新建——C/C++源文件</span><br><span class="line"># <span class="number">2.</span> 在弹出的对话框中，输入文件名(仅允许英文小写及下划线，不要出现空格)，</span><br><span class="line">#    后缀为 <span class="string">&quot;.c(C语言文件)&quot;</span>或<span class="string">&quot;.cpp(C++文件)&quot;</span>，切记不要勾选“添加到目标”，点击确定。</span><br><span class="line"># <span class="number">3.</span> 点击 左上角横线——文件——重新加载CMake项目 。</span><br><span class="line"># 注：未重载前，进入文件可能会有“不属于任何项目目标”的警告，重载后即会消失。</span><br><span class="line">#    若此警告未消失，请检查文件是否在src目录下，以及文件名是否符合规范。</span><br><span class="line"># &gt;-----------------------------------------------------------------------</span><br><span class="line"># 使用此CMakeList时，若运行 main() 函数代码，请直接点击函数前的绿色三角形按钮。</span><br><span class="line"># 右上角的运行按钮会自动运行最近一次运行的程序，因此可能不是你想要的结果。</span><br><span class="line"># ------------------------------------------------------------------------</span><br><span class="line"></span><br><span class="line"># 按照书本要求设定C语言和C++版本</span><br><span class="line"><span class="built_in">set</span>(CMAKE_C_STANDARD <span class="number">99</span>)</span><br><span class="line"><span class="built_in">set</span>(CMAKE_CXX_STANDARD <span class="number">20</span>)</span><br><span class="line"></span><br><span class="line"># 设定构建运行路径，避免污染根目录</span><br><span class="line"><span class="built_in">set</span>(CMAKE_ARCHIVE_OUTPUT_DIRECTORY $&#123;PROJECT_SOURCE_DIR&#125;/.archive)</span><br><span class="line"><span class="built_in">set</span>(CMAKE_LIBRARY_OUTPUT_DIRECTORY $&#123;PROJECT_SOURCE_DIR&#125;/.library)</span><br><span class="line"><span class="built_in">set</span>(CMAKE_RUNTIME_OUTPUT_DIRECTORY $&#123;PROJECT_SOURCE_DIR&#125;/.runtime)</span><br><span class="line"><span class="built_in">set</span>(EXECUTABLE_OUTPUT_PATH $&#123;PROJECT_SOURCE_DIR&#125;/.runtime)</span><br><span class="line"><span class="built_in">set</span>(LIBRARY_OUTPUT_PATH $&#123;PROJECT_SOURCE_DIR&#125;/.library)</span><br><span class="line"></span><br><span class="line">include_directories($&#123;PROJECT_SOURCE_DIR&#125;/src)</span><br><span class="line"></span><br><span class="line"># 遍历项目src目录下所有的 .c 文件，自动添加</span><br><span class="line">file(GLOB_RECURSE files src<span class="comment">/*.c src/*.cpp)</span></span><br><span class="line"><span class="comment">foreach (file $&#123;files&#125;) # 遍历所有发现的文件</span></span><br><span class="line"><span class="comment">    get_filename_component(name $&#123;file&#125; NAME) # 获取文件名</span></span><br><span class="line"><span class="comment">    add_executable($&#123;name&#125; $&#123;file&#125;</span></span><br><span class="line"><span class="comment">            src/test.c) # 添加可执行文件</span></span><br><span class="line"><span class="comment">endforeach () # 遍历结束</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;配置在这里粘贴进去就行了&quot;&gt;&lt;a href=&quot;#配置在这里粘贴进去就行了&quot; class=&quot;headerlink&quot; title=&quot;配置在这里粘贴进去就行了&quot;&gt;&lt;/a&gt;配置在这里粘贴进去就行了&lt;/h1&gt;&lt;h2 id=&quot;要创建一个src文件夹会自动遍历提交到cmakel</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>clion中文乱码</title>
+    <link href="http://example.com/2025/02/13/clion%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/"/>
+    <id>http://example.com/2025/02/13/clion%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/</id>
+    <published>2025-02-13T03:19:58.000Z</published>
+    <updated>2025-02-13T03:22:34.227Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="打开clion"><a href="#打开clion" class="headerlink" title="打开clion"></a>打开clion</h1><h2 id="点击ctrl-alt-shift"><a href="#点击ctrl-alt-shift" class="headerlink" title="点击ctrl+alt+shift+&#x2F;"></a>点击ctrl+alt+shift+&#x2F;</h2><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/91e1b88130215ab1.png" alt="image-20250213112052380"></p><h2 id="叉掉run-pro……"><a href="#叉掉run-pro……" class="headerlink" title="叉掉run.pro……"></a>叉掉run.pro……</h2><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/0b8fcf5219b40a23.png" alt="image-20250213112116783"></p><h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/b78d0906943dd18d.png" alt="image-20250213112200034"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;打开clion&quot;&gt;&lt;a href=&quot;#打开clion&quot; class=&quot;headerlink&quot; title=&quot;打开clion&quot;&gt;&lt;/a&gt;打开clion&lt;/h1&gt;&lt;h2 id=&quot;点击ctrl-alt-shift&quot;&gt;&lt;a href=&quot;#点击ctrl-alt-shift&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python爬取评论js逆向</title>
+    <link href="http://example.com/2025/02/12/python%E7%88%AC%E5%8F%96%E8%AF%84%E8%AE%BAjs%E9%80%86%E5%90%91/"/>
+    <id>http://example.com/2025/02/12/python%E7%88%AC%E5%8F%96%E8%AF%84%E8%AE%BAjs%E9%80%86%E5%90%91/</id>
+    <published>2025-02-12T06:35:52.000Z</published>
+    <updated>2025-02-13T11:29:13.431Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-获取评论所在的包"><a href="#1-获取评论所在的包" class="headerlink" title="1.获取评论所在的包"></a>1.获取评论所在的包</h1><p><strong>通过搜索评论人的名字</strong></p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/f81f32e954ef00c1.png" alt="image-20250212143606664"></p><h1 id="2-请求头"><a href="#2-请求头" class="headerlink" title="2.请求头"></a>2.请求头</h1><p>注意一下data中的表单数据必须一样跟那个文件</p><h2 id="user-agent"><a href="#user-agent" class="headerlink" title="user-agent"></a>user-agent</h2><h2 id="coookie"><a href="#coookie" class="headerlink" title="coookie"></a>coookie</h2><h1 id="3-返回数据"><a href="#3-返回数据" class="headerlink" title="3.返回数据"></a>3.返回数据</h1><h2 id="一般有类型·"><a href="#一般有类型·" class="headerlink" title="一般有类型·"></a>一般有类型·</h2><p><strong>respose.text</strong></p><p>返回字符串</p><p><strong>response.content</strong></p><p>返回二进制数据</p><p><strong>response.json()</strong></p><p>返回json格式</p><h1 id="源代码"><a href="#源代码" class="headerlink" title="源代码"></a>源代码</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"><span class="keyword">import</span> json</span><br><span class="line"></span><br><span class="line">data = &#123;</span><br><span class="line">    <span class="string">&#x27;params&#x27;</span>:<span class="string">&#x27; 5zJs5XXt+U9BxlDu+UtgnWBrE+UddUU60TKCFr/BRObyyAcyKYaUOOz2R24kUoTQB3qATBf05PFBbY0aq5u5qkInYROzu7gvjsERJxn6vNDpUvBLoIhLvWD1i942gAk7HupWjVNJZbpPMdDH+zYplmFjejDGUy9lz+D5VJ3Y9Is/aPkfnb0kp/ZkxKhD2XGXmEunwJXMTYgk6l7yTM4IqaZF8x1IY+CPlUveFYhDk6p7DifIF02DN7lEQiYU165kKMM02AW0J9sdgGFsW00x7hT3cpC8koOzZbUmn6YSn0mvcTGn4y7rVa2hmMUmYYsS1Kg6/+4YVwRrAe4tCMmSdYNJC39FCRnrgClDjessM6Q=&#x27;</span>,</span><br><span class="line"><span class="string">&#x27;encSecKey&#x27;</span>: <span class="string">&#x27;23abdbeb4041a78f187f84b0d1e7ded9fca02e498cfd23347b1447491915f7506807c5c4c0530922b5b767b14958ae7ff9d9bfa363d022e86eee8fdded8054300a19c4ff93299f3c9dfdfdfb196b1544fd98e3d1a083ba614c6518483615f1235cd69f9ac6ea9aab5ba2475808c1d774fa0cabee42b551929fbd398eb6a9cb6d&#x27;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">headers = &#123;</span><br><span class="line">    <span class="string">&#x27;cookie&#x27;</span>:<span class="string">&#x27;NMTID=00OSelo-bR5mV93xEqBky57lfBzA7QAAAGSk0iVMA; _iuqxldmzr_=32; _ntes_nnid=db9bc34125ac867ce4e994fa5bc72438,1729047865078; _ntes_nuid=db9bc34125ac867ce4e994fa5bc72438; WEVNSM=1.0.0; WNMCID=nyrgvq.1729047868473.01.0; sDeviceId=YD-dpt4%2Bt0GM8dBQ1AEUEPHRtCynQ4qWUf2; ntes_utid=tid._.S0dLz970JwtEB1UFEFKWSMIbNIXZhICW._.0; WM_TID=Uys9NEmJXCxFERQAAQPWTcdLdZGGurhn; __snaker__id=KrXPdFDcgbegYTSR; MUSIC_U=00FE840CE1611D71CA6E20479B5EA0B88E593D752E727333D0CAE7467319885D94603DE40EA37AD9985EBF7A76B65CE17C5744BC1CB85FFA5F34C66CB7D9FD166AC0B1316EB56E5171985A020EAB6630CBBC41F56A34A89041DE72DA3B7A96768CD3CA449DD70B3CDC3E8F21D302FC5577357185C2DC8AB568F12C97FD9DDE0AEC3FE4A48E9D1BFC2C1ADCDC8F412F1718800233587CDD5AEEBCE3A088EAB307C0EAAE783FEFB5FF9566FB0DE6EAC5938776038ADCFF95A53326C5FAA51168E570EC24170390F931E4B3C5754350E897D877B1CBB190A797DBF267D71E94F3DBAD25AAE7A224374F27EC829EAABFA69FFE743C58E42B19A4A6923B142E25A2FA9AA9DA6AA937F885070F02A6E3391DBB3155A658B6924049AF0CCE633816F99E3E293569E08784A85D2B94734C6A25F0BF8CFCAE9048E7D247C8506657FA0686BA8C8F23EF38D2C0ECBB666FFB0903D6AC15EDF15037948E7DE6CCE3ABC9254E9E3EF282382C620F5E396155B88797F578; ntes_kaola_ad=1; __csrf=e81b1752f88f6027d7d4874e7ccad49b; __csrf=e81b1752f88f6027d7d4874e7ccad49b; JSESSIONID-WYYY=fW4xTqCIQ91AubdZmW8k2JZqWS4fKJzke5oqwRTapw4dp5il0k6v%2FBW9rlE%2FCH9OMiV%5CYJoI0N2kgmVYbl4B08YS0F4zJmGNsvPs%2Fd3nypoO%5CUCmc5w%2B9BJZqNf3jB%5CNSPGjr1VH%2Fn0yWBRAgfYu3x3t2UxOIPJjKTR%2F647XF87JMoTO%3A1739341829128; WM_NI=FHZt1PNhrszDcBTugW7fwCe5YCDt64X7jL8un4EQBIDU8eXxD%2BDWAH7BEWkbnv38FnEL%2BN0UFIgWupm29qh43nlG8eiKp%2BVHHNFRf2M%2FgGjIJqQVV9QbQ5ZgIMOip%2BTpS0M%3D; WM_NIKE=9ca17ae2e6ffcda170e2e6eeafb57f919697d8b65ff8e78ab7d54a979a9b83cb428dab8bd4b639a89cf786ed2af0fea7c3b92a86989695b45c8eb8be94f950a19e9c96e65df5bab9a4e83f9b9d8c95b5409ce9a6adbb7faeec8bb2c143888bf886db7488f58cb8c444f59e8bb8ea6aaeaafdd9c5668794e5afb35f8697a9b8f87cafeef792eb40f1b2a4a8bb6fab95c0ccd5448c928ab3e53a8ff1a9a8e9438aaf9fb7d53393be9fd6d96d8b93818af32198b09dd1d037e2a3; playerid=59457748&#x27;</span>,</span><br><span class="line">    <span class="string">&#x27;referer&#x27;</span>:<span class="string">&#x27;https://music.163.com/playlist?id=12990667707&#x27;</span>,</span><br><span class="line">    <span class="string">&#x27;user-agent&#x27;</span>:<span class="string">&#x27;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0&#x27;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">url = <span class="string">&#x27;https://music.163.com/weapi/comment/resource/comments/get?csrf_token=e81b1752f88f6027d7d4874e7ccad49b&#x27;</span></span><br><span class="line"></span><br><span class="line">response = requests.post(url,data,headers)</span><br><span class="line"></span><br><span class="line">json_data = response.json()</span><br><span class="line"></span><br><span class="line">result = json_data[<span class="string">&#x27;data&#x27;</span>][<span class="string">&#x27;comments&#x27;</span>]</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> index <span class="keyword">in</span> result:</span><br><span class="line"> dit = &#123;</span><br><span class="line">    <span class="string">&#x27;昵称&#x27;</span>: index[<span class="string">&#x27;user&#x27;</span>][<span class="string">&#x27;nickname&#x27;</span>],</span><br><span class="line">    <span class="string">&#x27;评论&#x27;</span>: index[<span class="string">&#x27;content&#x27;</span>]</span><br><span class="line"> &#125;</span><br><span class="line"> <span class="built_in">print</span>(dit)</span><br></pre></td></tr></table></figure><h1 id="输出"><a href="#输出" class="headerlink" title="输出"></a>输出</h1><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line">D:\PythonProject\.venv\Scripts\python.exe D:\PythonProject\python爬虫\网易云3部曲\网易云音乐\逆向评论.py </span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;如艺_FM4T&#x27;, &#x27;评论&#x27;: &#x27;什么文案一看就哭&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;那时的自己以为能拥有一切&#x27;, &#x27;评论&#x27;: &#x27;你好像对谁都好&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;呆叽崴&#x27;, &#x27;评论&#x27;: &#x27;怎么不自卑呢漂亮对我来说太重要.\n\n怎么会没有遗憾呢很后悔.\n\n少女的心事永远埋藏在了那个盛夏.\n\n有些事情到此为止就是最好的收场.\n\n原谅我平平无奇惊艳不了你的青春.\n\n记得当初截图的目的是和朋友炫耀\n\n事事不顺心却让我事事都想哭\n\n幸福不属于我，我又何必强求呢\n\n落子无悔 抉择本身就是向&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;呆叽崴&#x27;, &#x27;评论&#x27;: &#x27;怎么不自卑呢漂亮对我来说太重要了.\n怎么会没有遗憾呢很后悔.\n少女的心事永远埋藏在了那个盛夏.\n有些事情到此为止就是最好的收场.\n原谅我平平无奇惊艳不了你的青春.\n记得当初截图的目的是和朋友炫耀\n事事不顺心却让我事事都想哭\n幸福不属于我，我又何必强求呢\n落子无悔 抉择本身就是向前\n你的已读不回&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;YyZzx_x&#x27;, &#x27;评论&#x27;: &#x27;后悔了吧  你之前那嫌弃她的傲慢呢&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;反复错W&#x27;, &#x27;评论&#x27;: &#x27;关系已解除 你我彻底翻篇.&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;相遇_v5B3&#x27;, &#x27;评论&#x27;: &#x27;你说你喜欢抽纯净 纯爱了  你又困在一个人的困境你.\n\n刚学会抽烟的那一刻就不需要别人来安慰了\n\n给我一支烟让抽出来的寂寞全都烟消云散\n\n我不傻 你骗我要藏好\n\n他欠我的太多了 光眼泪他就还不起&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;相遇_v5B3&#x27;, &#x27;评论&#x27;: &#x27;太在意的话痛的是自己\n\n不要担心失去什么，我们本来都是一无所有的\n\n与其临渊羡鱼，不如退而结网\n\n你是我患得患失的梦，我是你可有可无的人\n\n两块钱的皮筋你还想拴住他一辈子.&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;相遇_v5B3&#x27;, &#x27;评论&#x27;: &#x27;拜金怎么了你能给我钱让我拜吗\n\n男儿膝下有黄金砍了膝盖取黄金\n\n你从来都不需要我是我太依赖你了\n\n原来一直爱一个人不会死啊&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;相遇_v5B3&#x27;, &#x27;评论&#x27;: &#x27;知道你和沙僧有什么区别吗？他叫沙僧，你叫沙雕\n\n两虎相争，必有一伤\n\n跟我混吧，有我一口饭吃，就有你一个碗刷\n\n风林火山四时明，中藏甲兵有正形\n\n妈妈总说钱不好挣 看你挺好挣的  双腿一开 1800&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;初稚_L8Sb&#x27;, &#x27;评论&#x27;: &#x27;我也习惯了如果中途是特辣的海藻，也习惯了她对我次次的欺骗&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;初稚_L8Sb&#x27;, &#x27;评论&#x27;: &#x27;喜欢你是真的 你不喜欢我也是真的.&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;初稚_L8Sb&#x27;, &#x27;评论&#x27;: &#x27;或许只是恋人不是爱人.&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;初稚_L8Sb&#x27;, &#x27;评论&#x27;: &#x27;其实我蛮喜欢有人跟我睡前说晚安\n喜欢熬夜时有人催我睡觉\n喜欢不小心睡着之后有很多未接电话和未读消息\n喜欢吃饭前有人催我吃饭\n喜欢生病时有人提醒我吃药\n喜欢难过时有人安慰我\n我不会觉得烦\n我只会觉得我终于被爱了\n被人在乎了\n我只希望有个人好好跟我说说话&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;初稚_L8Sb&#x27;, &#x27;评论&#x27;: &#x27;一个背影就能认出来了你让我怎么忘&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;初稚_L8Sb&#x27;, &#x27;评论&#x27;: &#x27;你不要我的那天晚上，我哭了好久好久&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;初稚_L8Sb&#x27;, &#x27;评论&#x27;: &#x27;我不要金山 我想要的 不过是哭泣时能承载我的肩膀&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;初稚_L8Sb&#x27;, &#x27;评论&#x27;: &#x27;我如此悲观 便希望你是太阳&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;初稚_L8Sb&#x27;, &#x27;评论&#x27;: &#x27;笑容可以瞒得过别人 心酸𨚫只有自己知道.&#x27;&#125;</span><br><span class="line">&#123;&#x27;昵称&#x27;: &#x27;初稚_L8Sb&#x27;, &#x27;评论&#x27;: &#x27;身边陆陆续续出现了很多人 但我始终认为你是最好的.&#x27;&#125;</span><br><span class="line"></span><br><span class="line">进程已结束，退出代码为 0</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;1-获取评论所在的包&quot;&gt;&lt;a href=&quot;#1-获取评论所在的包&quot; class=&quot;headerlink&quot; title=&quot;1.获取评论所在的包&quot;&gt;&lt;/a&gt;1.获取评论所在的包&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;通过搜索评论人的名字&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;im</summary>
+      
+    
+    
+    
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>xpath</title>
+    <link href="http://example.com/2025/02/12/xpath/"/>
+    <id>http://example.com/2025/02/12/xpath/</id>
+    <published>2025-02-12T06:14:43.000Z</published>
+    <updated>2025-02-12T06:15:32.828Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="XPath-语法详解"><a href="#XPath-语法详解" class="headerlink" title="XPath 语法详解"></a>XPath 语法详解</h1><h2 id="一、引言"><a href="#一、引言" class="headerlink" title="一、引言"></a>一、引言</h2><p>XPath（XML Path Language）是一种用于在 XML 或 HTML 文档中定位节点的强大语言。在处理 XML 数据或进行网页数据抓取时，XPath 提供了一种简洁而高效的方式来选择文档中的元素和属性。下面将详细介绍 XPath 的语法规则和使用方法。</p><h2 id="二、基本概念"><a href="#二、基本概念" class="headerlink" title="二、基本概念"></a>二、基本概念</h2><h3 id="（一）节点"><a href="#（一）节点" class="headerlink" title="（一）节点"></a>（一）节点</h3><p>在 XML 或 HTML 文档中，元素、属性、文本、注释等都可看作节点。例如，在 HTML 中的 <code>&lt;div&gt;</code> 标签是元素节点，<code>id</code>、<code>class</code> 等是属性节点，标签内的文字属于文本节点。</p><h3 id="（二）路径表达式"><a href="#（二）路径表达式" class="headerlink" title="（二）路径表达式"></a>（二）路径表达式</h3><p>路径表达式类似于文件系统中的路径，用于在文档中选择节点。它分为绝对路径和相对路径。</p><h2 id="三、基本路径表达式"><a href="#三、基本路径表达式" class="headerlink" title="三、基本路径表达式"></a>三、基本路径表达式</h2><h3 id="（一）绝对路径和相对路径"><a href="#（一）绝对路径和相对路径" class="headerlink" title="（一）绝对路径和相对路径"></a>（一）绝对路径和相对路径</h3><ul><li><strong>绝对路径</strong>：从根节点开始的路径，以斜杠 <code>/</code> 开头。例如，<code>/html/body/div</code> 表示从根节点开始，依次选择 <code>html</code> 元素、<code>body</code> 元素，最后选择其中的 <code>div</code> 元素。</li><li><strong>相对路径</strong>：从当前节点开始的路径，不以斜杠开头。比如，<code>div/p</code> 表示在当前节点下，选择 <code>div</code> 元素中的 <code>p</code> 元素。</li></ul><h3 id="（二）节点选择器"><a href="#（二）节点选择器" class="headerlink" title="（二）节点选择器"></a>（二）节点选择器</h3><ul><li><strong>节点名称</strong>：直接通过节点的名称选择节点。例如，<code>div</code> 会选择文档中所有的 <code>div</code> 元素。</li><li><strong>通配符 <code>\*</code></strong>：用于选择所有节点。<code>/*</code> 表示选择根节点下的所有子节点。</li><li><strong>属性选择器</strong>：根据节点的属性来选择节点。例如，<code>//div[@id=&#39;myDiv&#39;]</code> 会选择文档中所有 <code>id</code> 属性值为 <code>myDiv</code> 的 <code>div</code> 元素。</li></ul><h3 id="（三）轴（Axes）"><a href="#（三）轴（Axes）" class="headerlink" title="（三）轴（Axes）"></a>（三）轴（Axes）</h3><p>轴用于定义相对于当前节点的节点集合，以下是一些常用的轴：</p><ul><li><strong><code>child</code></strong>：选择当前节点的子节点，这是默认轴，通常可以省略。如 <code>div/child::p</code> 与 <code>div/p</code> 等价。</li><li><strong><code>parent</code></strong>：选择当前节点的父节点。例如，<code>p/parent::div</code> 表示选择 <code>p</code> 元素的父 <code>div</code> 元素。</li><li><strong><code>descendant</code></strong>：选择当前节点的所有后代节点（包括子节点、孙节点等）。<code>div/descendant::p</code> 表示选择 <code>div</code> 元素下的所有 <code>p</code> 元素。</li><li><strong><code>ancestor</code></strong>：选择当前节点的所有祖先节点（如父节点、祖父节点等）。<code>p/ancestor::div</code> 表示选择 <code>p</code> 元素的所有祖先 <code>div</code> 元素。</li><li><strong><code>following - sibling</code></strong>：选择当前节点之后的所有兄弟节点。<code>p/following - sibling::div</code> 表示选择 <code>p</code> 元素之后的所有 <code>div</code> 兄弟节点。</li><li><strong><code>preceding - sibling</code></strong>：选择当前节点之前的所有兄弟节点。<code>p/preceding - sibling::div</code> 表示选择 <code>p</code> 元素之前的所有 <code>div</code> 兄弟节点。</li></ul><h2 id="四、谓语（Predicates）"><a href="#四、谓语（Predicates）" class="headerlink" title="四、谓语（Predicates）"></a>四、谓语（Predicates）</h2><p>谓语用于过滤节点集合，它是方括号 <code>[]</code> 中的表达式。以下是一些常见的使用示例：</p><ul><li><code>//div[1]</code>：表示选择所有 <code>div</code> 元素中的第一个。</li><li><code>//div[@class=&#39;myClass&#39;]</code>：表示选择所有 <code>class</code> 属性值为 <code>myClass</code> 的 <code>div</code> 元素。</li><li><code>//div[text()=&#39;Hello&#39;]</code>：表示选择所有文本内容为 <code>Hello</code> 的 <code>div</code> 元素。</li></ul><h2 id="五、函数"><a href="#五、函数" class="headerlink" title="五、函数"></a>五、函数</h2><p>XPath 提供了一些内置函数，用于处理节点和字符串。以下是一些常用的函数：</p><ul><li><strong><code>text()</code></strong>：返回节点的文本内容。例如，<code>//div/text()</code> 表示选择所有 <code>div</code> 元素的文本内容。</li><li><strong><code>contains()</code></strong>：检查字符串是否包含指定的子字符串。例如，<code>//div[contains(@class, &#39;myClass&#39;)]</code> 表示选择所有 <code>class</code> 属性值包含 <code>myClass</code> 的 <code>div</code> 元素。</li><li><strong><code>starts - with()</code></strong>：检查字符串是否以指定的子字符串开头。例如，<code>//div[starts - with(@id, &#39;prefix&#39;)]</code> 表示选择所有 <code>id</code> 属性值以 <code>prefix</code> 开头的 <code>div</code> 元素。</li></ul><h2 id="六、示例"><a href="#六、示例" class="headerlink" title="六、示例"></a>六、示例</h2><p>以下是一个简单的 HTML 文档和一些 XPath 表达式的示例：</p><p>html</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;!DOCTYPE <span class="keyword">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">&quot;div1&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span>Paragraph 1<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">&quot;div2&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span>Paragraph 2<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure><ul><li><code>//div</code>：选择所有的 <code>div</code> 元素。</li><li><code>//div/p</code>：选择所有 <code>div</code> 元素下的 <code>p</code> 元素。</li><li><code>//div[@id=&#39;div1&#39;]</code>：选择 <code>id</code> 属性值为 <code>div1</code> 的 <code>div</code> 元素。</li><li><code>//div[@id=&#39;div1&#39;]/p</code>：选择 <code>id</code> 属性值为 <code>div1</code> 的 <code>div</code> 元素下的 <code>p</code> 元素。</li><li><code>//p[text()=&#39;Paragraph 1&#39;]</code>：选择文本内容为 <code>Paragraph 1</code> 的 <code>p</code> 元素。</li></ul><p>通过这些基本的 XPath 语法，你可以在 XML 或 HTML 文档中灵活地定位和选择所需的节点。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;XPath-语法详解&quot;&gt;&lt;a href=&quot;#XPath-语法详解&quot; class=&quot;headerlink&quot; title=&quot;XPath 语法详解&quot;&gt;&lt;/a&gt;XPath 语法详解&lt;/h1&gt;&lt;h2 id=&quot;一、引言&quot;&gt;&lt;a href=&quot;#一、引言&quot; class=&quot;head</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>c语言基础认识</title>
+    <link href="http://example.com/2025/02/12/c%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80%E8%AE%A4%E8%AF%86/"/>
+    <id>http://example.com/2025/02/12/c%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80%E8%AE%A4%E8%AF%86/</id>
+    <published>2025-02-12T05:42:13.000Z</published>
+    <updated>2025-02-13T11:27:57.299Z</updated>
+    
+    <content type="html"><![CDATA[<table><thead><tr><th align="center">符号</th><th>解释</th></tr></thead><tbody><tr><td align="center">%f</td><td>读取一个浮点数</td></tr><tr><td align="center">xxxxxxxxxx5 1#include studio.h2int()main{3    printf(“HelloWorld”)4    return 05}c</td><td>读取一个字符</td></tr><tr><td align="center">%s</td><td>读取一个字符串（遇到空白字符停止）</td></tr><tr><td align="center">%lf</td><td>读取一个双精度浮点数</td></tr><tr><td align="center">%d</td><td>读取一个十进制整数</td></tr></tbody></table><h1 id="用法（scanf）键盘录入"><a href="#用法（scanf）键盘录入" class="headerlink" title="用法（scanf）键盘录入"></a>用法（scanf）键盘录入</h1><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span> &#123;</span><br><span class="line">    <span class="type">int</span> num;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;请输入一个整数: &quot;</span>);</span><br><span class="line">    <span class="comment">// 从标准输入读取一个整数并存储到 num 中</span></span><br><span class="line">    <span class="type">int</span> result = <span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>, &amp;num); </span><br><span class="line">    <span class="keyword">if</span> (result == <span class="number">1</span>) &#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;你输入的整数是: %d\n&quot;</span>, num);</span><br><span class="line">    &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;输入无效，请输入一个整数。\n&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>**&#x2F;&#x2F; 从标准输入读取一个整数并存储到 num 中<br>    int result &#x3D; scanf(“%d”, &amp;num); **</p><p><strong>读取多个类型分别存储</strong></p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span> &#123;</span><br><span class="line">    <span class="type">int</span> num;</span><br><span class="line">    <span class="type">float</span> f;</span><br><span class="line">    <span class="type">char</span> ch;</span><br><span class="line"></span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;请输入一个整数、一个浮点数和一个字符，用空格分隔: &quot;</span>);</span><br><span class="line">    <span class="comment">// 从标准输入读取一个整数、一个浮点数和一个字符</span></span><br><span class="line">    <span class="type">int</span> result = <span class="built_in">scanf</span>(<span class="string">&quot;%d %f %c&quot;</span>, &amp;num, &amp;f, &amp;ch); </span><br><span class="line">    <span class="keyword">if</span> (result == <span class="number">3</span>) &#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;你输入的整数是: %d\n&quot;</span>, num);</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;你输入的浮点数是: %f\n&quot;</span>, f);</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;你输入的字符是: %c\n&quot;</span>, ch);</span><br><span class="line">    &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;输入无效，请按照要求输入。\n&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;符号&lt;/th&gt;
+&lt;th&gt;解释&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;%f&lt;/td&gt;
+&lt;td&gt;读取一个浮点数&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr</summary>
+      
+    
+    
+    
+    
+    <category term="c语言" scheme="http://example.com/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言Day01</title>
+    <link href="http://example.com/2025/02/12/C%E8%AF%AD%E8%A8%80Day01/"/>
+    <id>http://example.com/2025/02/12/C%E8%AF%AD%E8%A8%80Day01/</id>
+    <published>2025-02-12T03:12:38.000Z</published>
+    <updated>2025-02-12T03:24:23.574Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="学习c语言的输出循环语法"><a href="#学习c语言的输出循环语法" class="headerlink" title="学习c语言的输出循环语法"></a>学习c语言的输出循环语法</h1><h2 id="比较重要的一部分"><a href="#比较重要的一部分" class="headerlink" title="比较重要的一部分"></a>比较重要的一部分</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span> &#123;</span><br><span class="line">    <span class="comment">// 循环从 0 到 8</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; <span class="number">9</span>; ++i) &#123;</span><br><span class="line"><span class="comment">//        在 C 语言中，当你使用 printf 函数输出整数并且希望每个整数单独占一行显示时，就需要使用 &quot; %d\n&quot;</span></span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;%d\n&quot;</span>, i);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="为什么要加-“-d-n”"><a href="#为什么要加-“-d-n”" class="headerlink" title="为什么要加 “%d\n”"></a>为什么要加 “%d\n”</h3><p>&#x3D;&#x3D;在 C 语言中，当你使用 <code>printf</code> 函数输出整数并且希望每个整数单独占一行显示时，就需要使用 <code>&quot; %d\n&quot;</code>&#x3D;&#x3D;</p><h3 id="为什么循环是-i"><a href="#为什么循环是-i" class="headerlink" title="为什么循环是++i"></a>为什么循环是++i</h3><p>不管是++i 还是  i++都是一样的</p><p><strong>在这个 <code>for</code> 循环的情境下，<code>++i</code> 和 <code>i++</code> 最终达到的效果是一样的，都会让变量 <code>i</code> 的值每次循环增加 1。</strong></p><ul><li><strong><code>++i</code>（前缀自增）：先将 <code>i</code> 的值加 1，然后再使用 <code>i</code> 增加后的值。</strong></li><li><strong><code>i++</code>（后缀自增）：先使用 <code>i</code> 当前的值，然后再将 <code>i</code> 的值加 1。</strong></li></ul><p>输出结果</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/01499974badc7b09.png" alt="image-20250212111724097"></p><h1 id="对于输出中文乱码的情况"><a href="#对于输出中文乱码的情况" class="headerlink" title="对于输出中文乱码的情况"></a>对于输出中文乱码的情况</h1><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;windows.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span> &#123;</span><br><span class="line">    <span class="comment">// 设置控制台输出为 UTF-8 编码</span></span><br><span class="line">    SetConsoleOutputCP(<span class="number">65001</span>);</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;这是中文测试\n&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="加入一个utf-8就可以了"><a href="#加入一个utf-8就可以了" class="headerlink" title="加入一个utf-8就可以了"></a>加入一个utf-8就可以了</h2><h1 id="if-判断表示"><a href="#if-判断表示" class="headerlink" title="if 判断表示"></a>if 判断表示</h1><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;windows.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span> &#123;</span><br><span class="line">    <span class="comment">// 设置控制台输出为 UTF-8 编码</span></span><br><span class="line">    SetConsoleOutputCP(<span class="number">65001</span>);</span><br><span class="line">    <span class="keyword">if</span>(<span class="number">12</span>&gt;<span class="number">16</span>)&#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;你好\n&quot;</span>);</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;我不好\n&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="输出展示"><a href="#输出展示" class="headerlink" title="输出展示"></a>输出展示</h2><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/8bddc4fead50ee9f.png" alt="image-20250212112413164"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;学习c语言的输出循环语法&quot;&gt;&lt;a href=&quot;#学习c语言的输出循环语法&quot; class=&quot;headerlink&quot; title=&quot;学习c语言的输出循环语法&quot;&gt;&lt;/a&gt;学习c语言的输出循环语法&lt;/h1&gt;&lt;h2 id=&quot;比较重要的一部分&quot;&gt;&lt;a href=&quot;#比较重要的</summary>
+      
+    
+    
+    
+    
+    <category term="c语言" scheme="http://example.com/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写一个好看的一言</title>
+    <link href="http://example.com/2025/02/11/%E5%86%99%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9C%8B%E7%9A%84%E4%B8%80%E8%A8%80/"/>
+    <id>http://example.com/2025/02/11/%E5%86%99%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9C%8B%E7%9A%84%E4%B8%80%E8%A8%80/</id>
+    <published>2025-02-11T07:28:44.000Z</published>
+    <updated>2025-02-16T13:04:28.959Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="有一个动态模糊"><a href="#有一个动态模糊" class="headerlink" title="有一个动态模糊"></a>有一个动态模糊</h1><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/97f845cf2a3512df.png" alt="image-20250211152921590"></p><h2 id="效果拉满了哈哈哈哈哈哈哈哈哈"><a href="#效果拉满了哈哈哈哈哈哈哈哈哈" class="headerlink" title="效果拉满了哈哈哈哈哈哈哈哈哈"></a>效果拉满了哈哈哈哈哈哈哈哈哈</h2><p><img src="http://love.qmys.fun/image-20250216205331930.png" alt="image-20250216205331930"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;有一个动态模糊&quot;&gt;&lt;a href=&quot;#有一个动态模糊&quot; class=&quot;headerlink&quot; title=&quot;有一个动态模糊&quot;&gt;&lt;/a&gt;有一个动态模糊&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://mytx.cpolar.top/LightPicture/2025</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>js逆向网易云音乐</title>
+    <link href="http://example.com/2025/02/10/js%E9%80%86%E5%90%91%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/"/>
+    <id>http://example.com/2025/02/10/js%E9%80%86%E5%90%91%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/</id>
+    <published>2025-02-10T10:53:21.000Z</published>
+    <updated>2025-02-13T03:20:06.739Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">url = <span class="string">&#x27;https://m10.music.126.net/20250210190625/e7fec2bd5866a028f87c1b1eea6a2553/yyaac/obj/wonDkMOGw6XDiTHCmMOi/14053024096/cc16/05ed/28ec/4dc48105e9fee3958da6330b3a72509f.m4a?vuutv=w7ga1BCrFwaZA/msUBZnKznbhkYhwJon6wDzXrqhF9SCocCysNTawuLiOacoyoWG3CEuBHaBTKO0ACUZvk8/76s8QSZXR+9cpj70BbmZPXM=&#x27;</span></span><br><span class="line"></span><br><span class="line">headers = &#123;</span><br><span class="line"><span class="string">&#x27;user-agent&#x27;</span>:<span class="string">&#x27;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0&#x27;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">response = requests.get(url,headers)</span><br><span class="line"></span><br><span class="line"><span class="keyword">with</span> <span class="built_in">open</span>(<span class="string">&#x27;music.m4a&#x27;</span>,<span class="string">&#x27;wb&#x27;</span>) <span class="keyword">as</span> f:</span><br><span class="line">    f.write(response.content)</span><br><span class="line"></span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;ok&quot;</span>)</span><br></pre></td></tr></table></figure><p>#上面是一个下载单个网易云音乐的方式</p><p>1.<strong>使用js逆向寻求规律进行批量下载</strong></p><p>1.寻找v1csrf_token&#x3D;文件post请求 （播放一首歌会出现）</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/6347e92044bcf9b7.png" alt="image-20250210185541678"></p><p>post请求需要表单数据</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/8a2949453dd1b2ce.png" alt="image-20250210185639724"></p><p><strong>俩东西</strong></p><ol><li><p>params: </p><p>6r4pCGcFnINAbMppx0wTOKZ&#x2F;dLqua8J916Vu&#x2F;pRpdauZDZinWEQhD6WQWcDBSosNjMvRC9W03QKTzfMbO+Y9030g5rSCLTlrn4AqHFPxzjre7q28R4wHQQ6+t3cP8SICZUUjf7NhVEzl5zH1QEb9APCxfdLv7Sw2+MUOeUBpoeZoUI1+5GAK5WqEIOJ4Mn3p3TA6t1Zs0c0zOs65SI7iqg&#x3D;&#x3D;</p></li><li><p>encSecKey: </p><p>64abccc53eaf633b570c3f190e3adfeddab28432a0cbfeae15c0b397d13d14a35268fb0ac58b895b08ee52a31b516375c0954593cfe6669fb7e31e8c45ca8aa3334b2db5a91517005457215d17da89e04e60e3bdf2c1c7ea5ccb5b484e3bfc3a3aaa1715fb161ed2977897b9704456c158c24c6ad97bdb44d618d3eff2e6a905</p></li></ol><p>点开预览得到url 带有音乐id</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/7d0218275d0185cf.png" alt="image-20250210185912033"></p><p>去用python请求他的头连接</p><p><strong><a href="https://music.163.com/weapi/song/enhance/player/url/v1?csrf_token=e81b1752f88f6027d7d4874e7ccad49b">https://music.163.com/weapi/song/enhance/player/url/v1?csrf_token=e81b1752f88f6027d7d4874e7ccad49b</a></strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">data = &#123;</span><br><span class="line">    <span class="comment"># 秘钥每次都重新生成</span></span><br><span class="line">    <span class="comment"># 寻找秘钥</span></span><br><span class="line">    <span class="string">&#x27;params&#x27;</span>: <span class="string">&#x27;params&#x27;</span>,</span><br><span class="line">    <span class="string">&#x27;encSecKey&#x27;</span>:<span class="string">&#x27;encSecKey&#x27;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><p><strong>寻找秘钥</strong></p><p>ctrl + F 搜索：params</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/8bde4fcc024be8bc.png" alt="image-20250210190632564"></p><p>失败了逆向太难了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span clas</summary>
+      
+    
+    
+    
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>wxauto一个微信自动定时发信息python库</title>
+    <link href="http://example.com/2025/02/10/wxauto%E4%B8%80%E4%B8%AA%E5%BE%AE%E4%BF%A1%E8%87%AA%E5%8A%A8%E5%AE%9A%E6%97%B6%E5%8F%91%E4%BF%A1%E6%81%AFpython%E5%BA%93/"/>
+    <id>http://example.com/2025/02/10/wxauto%E4%B8%80%E4%B8%AA%E5%BE%AE%E4%BF%A1%E8%87%AA%E5%8A%A8%E5%AE%9A%E6%97%B6%E5%8F%91%E4%BF%A1%E6%81%AFpython%E5%BA%93/</id>
+    <published>2025-02-10T08:18:59.000Z</published>
+    <updated>2025-02-12T05:37:29.644Z</updated>
+    
+    <content type="html"><![CDATA[<p>下载相应依赖</p><p>wxauto 进入控制台 输入</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install wxauto</span><br></pre></td></tr></table></figure><p><strong>输入示例 无定时</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> wxauto <span class="keyword">import</span> *</span><br><span class="line"><span class="comment"># 定义为方法好看</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">WxSend</span>(<span class="params">who,message</span>):</span><br><span class="line"> <span class="comment"># 获取微信的窗口</span></span><br><span class="line"> wx = WeChat()</span><br><span class="line"> <span class="comment"># 进入对象的聊天界面</span></span><br><span class="line"> wx.ChatWith(who)</span><br><span class="line"> <span class="comment"># 发送信息</span></span><br><span class="line"> wx.SendMsg(message,who)</span><br><span class="line"><span class="comment"># 添加要发送的对象</span></span><br><span class="line">who = <span class="string">&#x27;文件传输助手&#x27;</span></span><br><span class="line"><span class="comment"># 添加发送的信息</span></span><br><span class="line">message = <span class="string">&#x27;你好&#x27;</span></span><br><span class="line"><span class="comment"># 调用方法</span></span><br><span class="line">WxSend(who,message)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment"># 如果要多次发送(轰炸) 可以加入循环</span></span><br><span class="line"><span class="comment"># # 循环次数</span></span><br><span class="line"><span class="comment"># num = &#x27;&#x27;</span></span><br><span class="line"><span class="comment"># # 开始循环</span></span><br><span class="line"><span class="comment"># for i in range(num):</span></span><br><span class="line"><span class="comment">#     # 调用方法</span></span><br><span class="line"><span class="comment">#     WxSend(who,message)</span></span><br></pre></td></tr></table></figure><p><strong>下面来一个定时的(并且是键盘录入)</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> schedule</span><br><span class="line"><span class="keyword">from</span> wxauto <span class="keyword">import</span> *</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定义了一个发送微信的方法</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">sendWx</span>(<span class="params">message, who</span>):</span><br><span class="line">    <span class="comment"># 初始化窗口</span></span><br><span class="line">    wx = WeChat()</span><br><span class="line">    <span class="comment"># 开始发送消息</span></span><br><span class="line">    wx.ChatWith(who)  <span class="comment"># 先切换到对应的聊天窗口</span></span><br><span class="line">    wx.SendMsg(message)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 一个定时方法 调用时传入要执行的方法、执行时间、方法所需的参数</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">set_time</span>(<span class="params">what, when, *args</span>):</span><br><span class="line">    schedule.every().day.at(when).do(what, *args)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 下面四个参数必须填写</span></span><br><span class="line"><span class="comment"># 输入要发送的好友的备注</span></span><br><span class="line">who = <span class="built_in">input</span>(<span class="string">&#x27;请输入要发送的好友名字: &#x27;</span>)</span><br><span class="line"><span class="comment"># 输入要发送的消息</span></span><br><span class="line">message = <span class="built_in">input</span>(<span class="string">&#x27;请输入要发送的信息: &#x27;</span>)</span><br><span class="line"><span class="comment"># 定时的时间</span></span><br><span class="line">when = <span class="built_in">input</span>(<span class="string">&quot;请输入定时时间 (例如 12:18):&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 设置定时任务</span></span><br><span class="line">set_time(sendWx, when, message, who)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 运行定时任务</span></span><br><span class="line"><span class="keyword">while</span> <span class="literal">True</span>:</span><br><span class="line">    schedule.run_pending()</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;下载相应依赖&lt;/p&gt;
+&lt;p&gt;wxauto 进入控制台 输入&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pr</summary>
+      
+    
+    
+    
+    <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>c语言环境软件clion破解</title>
+    <link href="http://example.com/2025/02/10/c%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E8%BD%AF%E4%BB%B6clion%E7%A0%B4%E8%A7%A3/"/>
+    <id>http://example.com/2025/02/10/c%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E8%BD%AF%E4%BB%B6clion%E7%A0%B4%E8%A7%A3/</id>
+    <published>2025-02-10T04:41:25.000Z</published>
+    <updated>2025-02-16T13:04:59.600Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="大家好今天来教大家配置c语言的环境"><a href="#大家好今天来教大家配置c语言的环境" class="headerlink" title="大家好今天来教大家配置c语言的环境"></a>大家好今天来教大家配置c语言的环境</h1><h2 id="1-首先进入官网-CLion"><a href="#1-首先进入官网-CLion" class="headerlink" title="1.首先进入官网  CLion"></a>1.首先进入官网 <a href="https://www.jetbrains.com/zh-cn/clion/download/other.html"> CLion</a></h2><h2 id="2-下载对应版本2024-1-6-windows-exe"><a href="#2-下载对应版本2024-1-6-windows-exe" class="headerlink" title="2.下载对应版本2024.1.6 windows(exe)"></a>2.下载对应版本2024.1.6 windows(exe)</h2><img src="http://mytx.cpolar.top/LightPicture/2025/02/c52836880308b69c.png" alt="image-20250210124409803" style="zoom: 33%;" /><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/e874d17b634f85c0.png" alt="image-20250210124453677"></p><h2 id="3-下载后安装"><a href="#3-下载后安装" class="headerlink" title="3.下载后安装"></a>3.下载后安装</h2><p>&#x3D;&#x3D;<strong>点击下一步</strong>&#x3D;&#x3D;</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/35ef0dbaf95a0747.png" alt="image-20250210124857209"></p><p>&#x3D;&#x3D;<strong>下载你喜欢的路径（推荐c盘外的）</strong>&#x3D;&#x3D;</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/6411b557fa2aca47.png" alt="image-20250210124918125"></p><p>&#x3D;&#x3D;<strong>这样勾选</strong>(下一步)&#x3D;&#x3D;</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/28b20ffb24eee88d.png" alt="image-20250210125049491"></p><p>&#x3D;&#x3D;<strong>开始安装</strong>&#x3D;&#x3D;</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/394f4892a8f2f9ff.png" alt="image-20250210125204584"></p><p>&#x3D;&#x3D;<strong>选择否点击完成</strong>&#x3D;&#x3D;</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/b6eac08dbfbc14e8.png" alt="image-20250210125728816"></p><h2 id="4-破解"><a href="#4-破解" class="headerlink" title="4.破解"></a>4.破解</h2><p>​         安装完成先不着急打开，去下载破解工具</p><p>&#x3D;&#x3D;打开链接  <a href="https://github.com/YYY887/qmys.github.io/blob/main/win2020-2024(%E4%B8%80%E9%94%AE%E6%BF%80%E6%B4%BB).rar">激活资料</a>&#x3D;&#x3D;</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/3972dc8e5c043509.png" alt="image-20250210130746674"></p><h2 id="下载完解压得到包本体"><a href="#下载完解压得到包本体" class="headerlink" title="下载完解压得到包本体"></a><strong>下载完解压得到包本体</strong></h2><p>&#x3D;&#x3D;双击该文件&#x3D;&#x3D;（双击前不要打开clion不然容易失败）</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/393d587ae3bada4a.png" alt="image-20250210131033098"></p><h2 id="激活完成"><a href="#激活完成" class="headerlink" title="激活完成"></a><strong>激活完成</strong></h2><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/21a7ab5d7351317d.png" alt="image-20250210131137986"></p><h2 id="测试合格，教程结束"><a href="#测试合格，教程结束" class="headerlink" title="测试合格，教程结束"></a><strong>测试合格，教程结束</strong></h2><h6 id="有疑问可以加QQ-3449837914我看到了会回复（添加的时候备注：激活clion）"><a href="#有疑问可以加QQ-3449837914我看到了会回复（添加的时候备注：激活clion）" class="headerlink" title="有疑问可以加QQ:3449837914我看到了会回复（添加的时候备注：激活clion）"></a><strong>有疑问可以加QQ:3449837914我看到了会回复（添加的时候备注：激活clion）</strong></h6>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;大家好今天来教大家配置c语言的环境&quot;&gt;&lt;a href=&quot;#大家好今天来教大家配置c语言的环境&quot; class=&quot;headerlink&quot; title=&quot;大家好今天来教大家配置c语言的环境&quot;&gt;&lt;/a&gt;大家好今天来教大家配置c语言的环境&lt;/h1&gt;&lt;h2 id=&quot;1-首先进</summary>
+      
+    
+    
+    
+    <category term="c语言" scheme="http://example.com/categories/c%E8%AF%AD%E8%A8%80/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>学习python的xijie</title>
+    <link href="http://example.com/2025/02/09/%E5%AD%A6%E4%B9%A0python%E7%9A%84xijie/"/>
+    <id>http://example.com/2025/02/09/%E5%AD%A6%E4%B9%A0python%E7%9A%84xijie/</id>
+    <published>2025-02-09T13:51:20.000Z</published>
+    <updated>2025-02-12T11:33:48.111Z</updated>
+    
+    <content type="html"><![CDATA[<p>发现一个小细节(不加f)</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/7cfd2e2af01aa395.png" alt="image-20250209215142887"></p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/dca1f551ba635dea.png" alt="image-20250209215218237"></p><p>由此可见细节决定成败</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;发现一个小细节(不加f)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://mytx.cpolar.top/LightPicture/2025/02/7cfd2e2af01aa395.png&quot; alt=&quot;image-20250209215142887&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;im</summary>
+      
+    
+    
+    
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python处理json</title>
+    <link href="http://example.com/2025/02/09/python%E5%A4%84%E7%90%86json/"/>
+    <id>http://example.com/2025/02/09/python%E5%A4%84%E7%90%86json/</id>
+    <published>2025-02-09T13:16:24.000Z</published>
+    <updated>2025-02-12T05:37:08.737Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>python处理json用到方法</strong></p><p><em>json.loads()</em>  <strong>获得的数据其实是真json也就是将text转化为json</strong></p><p><strong>然后用处理方法</strong></p><p>例如</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">text = json.loads(shuju)</span><br><span class="line"><span class="comment">#获取data数组中img</span></span><br><span class="line">end = text[<span class="string">&#x27;data&#x27;</span>][<span class="string">&#x27;img&#x27;</span>]</span><br><span class="line"><span class="comment">#数组外的如 code</span></span><br><span class="line">end = text[<span class="string">&#x27;code&#x27;</span>]</span><br></pre></td></tr></table></figure><p><strong>下面是一个案例爬取的是api中的img属性</strong></p><p><strong>json数据预览</strong></p><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;code&quot;</span><span class="punctuation">:</span> <span class="string">&quot;200&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;msg&quot;</span><span class="punctuation">:</span> <span class="string">&quot;生成成功&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;img&quot;</span><span class="punctuation">:</span> <span class="string">&quot;http://shanhe.kim/api/za/data/yzm/1739107224.png&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;answer&quot;</span><span class="punctuation">:</span> <span class="string">&quot;73&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;codeText&quot;</span><span class="punctuation">:</span> <span class="string">&quot;38 + 35&quot;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure><p><strong>python代码展示</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"><span class="keyword">import</span> json</span><br><span class="line"><span class="comment"># &#123;</span></span><br><span class="line"><span class="comment">#     &quot;code&quot;: &quot;200&quot;,</span></span><br><span class="line"><span class="comment">#     &quot;msg&quot;: &quot;生成成功&quot;,</span></span><br><span class="line"><span class="comment">#     &quot;img&quot;: &quot;http://shanhe.kim/api/za/data/yzm/1739106398.png&quot;,</span></span><br><span class="line"><span class="comment">#     &quot;answer&quot;: &quot;69&quot;,</span></span><br><span class="line"><span class="comment">#     &quot;codeText&quot;: &quot;26 + 43&quot;</span></span><br><span class="line"><span class="comment"># &#125;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 定义为方法的话一定要对齐</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">getImg</span>(<span class="params">url</span>):</span><br><span class="line"> res = requests.get(url)</span><br><span class="line"> Json = json.loads(res.text) <span class="comment">#</span></span><br><span class="line"> img = Json[<span class="string">&#x27;img&#x27;</span>]</span><br><span class="line"> <span class="comment"># 测试输出</span></span><br><span class="line"> <span class="built_in">print</span>(img)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment"># 实现方法必须跟def对齐</span></span><br><span class="line">getImg(<span class="string">&#x27;http://shanhe.kim/api/za/yzmv1.php&#x27;</span>)</span><br><span class="line"></span><br></pre></td></tr></table></figure><p><strong>结果</strong></p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">D:\PythonProject\.venv\Scripts\python.exe D:\PythonProject\python爬虫\api.py </span><br><span class="line">http://shanhe.kim/api/za/data/yzm/1739106856.png</span><br><span class="line"></span><br><span class="line">进程已结束，退出代码为 0</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;python处理json用到方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;json.loads()&lt;/em&gt;  &lt;strong&gt;获得的数据其实是真json也就是将text转化为json&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然后用处理方法&lt;/str</summary>
+      
+    
+    
+    
+    <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python解析api</title>
+    <link href="http://example.com/2025/02/09/python%E8%A7%A3%E6%9E%90api/"/>
+    <id>http://example.com/2025/02/09/python%E8%A7%A3%E6%9E%90api/</id>
+    <published>2025-02-09T13:00:21.000Z</published>
+    <updated>2025-02-12T05:37:22.054Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>学习python解析json</strong></p><p>以山河api为例子</p><p>URL&#x3D; ’<a href="http://shanhe.kim/api/music/wyyrp.php%E2%80%98">http://shanhe.kim/api/music/wyyrp.php‘</a></p><p>返回的json</p><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;code&quot;</span><span class="punctuation">:</span> <span class="number">1</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;text&quot;</span><span class="punctuation">:</span> <span class="string">&quot;获取成功&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;data&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">        <span class="attr">&quot;Music&quot;</span><span class="punctuation">:</span> <span class="string">&quot;掌控者 Controller&quot;</span><span class="punctuation">,</span></span><br><span class="line">        <span class="attr">&quot;name&quot;</span><span class="punctuation">:</span> <span class="string">&quot;BOY&quot;</span><span class="punctuation">,</span></span><br><span class="line">        <span class="attr">&quot;Picture&quot;</span><span class="punctuation">:</span> <span class="string">&quot;http://p2.music.126.net/gTn3Ti45GOBv1lDj6zWCNQ==/109951170415216167.jpg&quot;</span><span class="punctuation">,</span></span><br><span class="line">        <span class="attr">&quot;Url&quot;</span><span class="punctuation">:</span> <span class="string">&quot;http://music.163.com/song/media/outer/url?id=2668571848&quot;</span><span class="punctuation">,</span></span><br><span class="line">        <span class="attr">&quot;id&quot;</span><span class="punctuation">:</span> <span class="number">2668571848</span><span class="punctuation">,</span></span><br><span class="line">        <span class="attr">&quot;Content&quot;</span><span class="punctuation">:</span> <span class="string">&quot;??找到很多好曲子，就会一个劲的听，直到不想听了，再去找其他的曲子，然后再重复，多少年过去了，慢慢积攒沉淀，或偶尔听到以前挚爱的歌都会回想起听这首曲子时自己的生活和状态，很多时候不单单是在听曲子，而是在听回忆。这体验如梦初醒，如痴如画。像一件件艺术幻灯片。&quot;</span><span class="punctuation">,</span></span><br><span class="line">        <span class="attr">&quot;Nick&quot;</span><span class="punctuation">:</span> <span class="string">&quot;蒋彦祖&quot;</span></span><br><span class="line">    <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure><p>目的获取data里面的 Music和Content</p><p><strong>需要用到两个库</strong></p><p>requests json </p><p>方法：</p><p>​       <em>requests.get(url)</em></p><p>​       json.loads(）该方法是为了获得json数据变量</p><p>​       <em>json.loads(这里填获取到的json变量)</em></p><p>以下是代码实现添加了方法</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">~~~python</span><br><span class="line">import requests</span><br><span class="line">import json</span><br></pre></td></tr></table></figure><p>​        </p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"><span class="keyword">import</span> json</span><br><span class="line"></span><br><span class="line"><span class="comment">#添加方法</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">getContent</span>(<span class="params">url</span>):</span><br><span class="line"><span class="comment">#对齐</span></span><br><span class="line"> res = requests.get(url)</span><br><span class="line"> text = res.text</span><br><span class="line"> result = json.loads(text)</span><br><span class="line"> content = result[<span class="string">&#x27;data&#x27;</span>][<span class="string">&#x27;Content&#x27;</span>]</span><br><span class="line"> music = result[<span class="string">&#x27;data&#x27;</span>][<span class="string">&#x27;Music&#x27;</span>]</span><br><span class="line"> author = result[<span class="string">&#x27;data&#x27;</span>][<span class="string">&#x27;name&#x27;</span>]</span><br><span class="line"> url = result[<span class="string">&#x27;data&#x27;</span>][<span class="string">&#x27;Url&#x27;</span>]</span><br><span class="line"> <span class="built_in">print</span>(<span class="string">&quot;原曲:&quot;</span>+music)</span><br><span class="line"> <span class="built_in">print</span>(<span class="string">&quot;作者:&quot;</span>+author)</span><br><span class="line"> <span class="built_in">print</span>(<span class="string">&quot;热评:&quot;</span>+content)</span><br><span class="line"> <span class="built_in">print</span>(<span class="string">&quot;歌曲链接:&quot;</span>+url)</span><br><span class="line"></span><br><span class="line"><span class="comment">#调用方法</span></span><br><span class="line">getContent(<span class="string">&#x27;http://shanhe.kim/api/music/wyyrp.php&#x27;</span>)</span><br></pre></td></tr></table></figure><p><strong>运行结果</strong></p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">D:\PythonProject\.venv\Scripts\python.exe D:\PythonProject\python爬虫\a.py </span><br><span class="line">原曲:八方来财</span><br><span class="line">作者:揽佬SKAI ISYOURGOD</span><br><span class="line">热评:亏妻者百财不入[鬼脸]</span><br><span class="line">歌曲链接:http://music.163.com/song/media/outer/url?id=2618710186</span><br><span class="line"></span><br><span class="line">进程已结束，退出代码为 0</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;学习python解析json&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以山河api为例子&lt;/p&gt;
+&lt;p&gt;URL&amp;#x3D; ’&lt;a href=&quot;http://shanhe.kim/api/music/wyyrp.php%E2%80%98&quot;&gt;http://shanhe</summary>
+      
+    
+    
+    
+    <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>账号密码</title>
+    <link href="http://example.com/2025/02/09/%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81/"/>
+    <id>http://example.com/2025/02/09/%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81/</id>
+    <published>2025-02-09T06:13:29.000Z</published>
+    <updated>2025-02-16T13:08:30.600Z</updated>
+    
+    <content type="html"><![CDATA[<p>&#x3D;&#x3D;账号&#x3D;&#x3D;</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="number">19837407963</span></span><br></pre></td></tr></table></figure><p>&#x3D;&#x3D;密码&#x3D;&#x3D;</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="number">407963</span></span><br></pre></td></tr></table></figure><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/af524a9d068d5c15.png" alt="横屏78"></p><p>图床突然变得好快啊</p><p><img src="http://mytx.cpolar.top/LightPicture/2025/02/7752c2e6daafbca7.png" alt="image-20250209162748952"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;#x3D;&amp;#x3D;账号&amp;#x3D;&amp;#x3D;&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;</summary>
       
     
     
